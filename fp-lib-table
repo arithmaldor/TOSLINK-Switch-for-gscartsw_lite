@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "GSTA conns")(type KiCad)(uri "$(KIPRJMOD)/GSTA conns.pretty")(options "")(descr ""))
+)
