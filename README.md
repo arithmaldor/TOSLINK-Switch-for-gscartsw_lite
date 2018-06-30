@@ -25,5 +25,7 @@ C1-C9: 100 nF ceramic capacitor		0805
 
 U2: 8 pin header, 2.54mm spacing
 
+100uF 7343 Tantalum Capacitor x1
+
 ## OSH Park
-Find this project on OSh Park: https://oshpark.com/shared_projects/5A5iW3N2
+Find this project on OSh Park: https://oshpark.com/shared_projects/WhT3B602
