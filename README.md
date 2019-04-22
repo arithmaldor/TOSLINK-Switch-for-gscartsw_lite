@@ -12,7 +12,7 @@ PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
 conditions
 
 # TOSLINK Switch for gscartsw_lite
-8 port TOSLINK switch for gscartsw_lite that automatically follows the input.
+8 port TOSLINK switch for gscartsw_lite that automatically follows the input. I was unable to get this working, will need to power the circuit externally? Or the problem could be something else.
 
 # BOM
 TOSLINK input: Sharp GP1FA551RZ Toslink Receiver	
